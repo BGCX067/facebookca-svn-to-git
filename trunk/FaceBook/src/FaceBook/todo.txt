@@ -1,0 +1,8 @@
+TODO:
+
+DONE (Refael, Eran Ishay)  -  client should saves id password and key in a file! -- see page 3, (1).
+client sends image -- need to verify that it passes
+pass messages - client to client!. -- clients need to have a server framework too, different thread
+every time we use public key - check to see if user not in CRL
+when client deletes himself he needs to be able to generate new keys
+DONE (Refael, Eran) - delete client file when client is deleted
